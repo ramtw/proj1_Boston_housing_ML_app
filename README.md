@@ -2,7 +2,7 @@
 
  This app predicts housing prices in Boston, and is developed using Python and Streamlit.
 
- The dataset can be downloaded from [Boston Housing Price Dataset] (https://archive.ics.uci.edu/ml/datasets/Housing)
+ The dataset can be downloaded from [Boston Housing Price Dataset] (https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
 
 ## Introduction
 
