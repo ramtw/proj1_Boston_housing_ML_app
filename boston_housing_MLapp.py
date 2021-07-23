@@ -63,7 +63,7 @@ st.write('---')
 
 # Build Regression Model
 model = RandomForestRegressor()
-model.fit(X, Y)
+model.fit(X, Y.values.ravel())
 # Apply Model to Make Prediction
 prediction = model.predict(df)
 
