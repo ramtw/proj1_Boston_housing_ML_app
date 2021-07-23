@@ -1,2 +1,1 @@
-web: sh setup.sh && streamlit run boston-price-ml-app.py
-
+web: sh setup.sh && streamlit run boston_housing_MLapp.py
