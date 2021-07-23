@@ -3,6 +3,18 @@
  This app predicts housing prices in Boston, and is developed using Python and Streamlit.
 
  The dataset can be downloaded from [Boston Housing Price Dataset] (https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
+ 
+ ### Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [streamlit](https://streamlit.io/)
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
 ## Introduction
 
