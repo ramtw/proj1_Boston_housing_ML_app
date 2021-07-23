@@ -39,3 +39,10 @@ This study aims to find the important factors that affect the house prices in a 
 12. B: 1000(Bk — 0.63)², where Bk is the proportion of people of African American descent by town
 13. LSTAT: Percentage of lower status of the population
 14. MEDV: Median value of owner-occupied homes in USD 1000's
+
+
+![Screenshot from 2021-07-23 19-52-36](https://user-images.githubusercontent.com/50477195/126796316-9070d2ba-a850-4815-b359-dabc33f8c9df.png)
+
+![Screenshot from 2021-07-23 19-51-43](https://user-images.githubusercontent.com/50477195/126796259-a1d029cb-dd96-4eda-a689-d48c8e88a385.png)
+
+![Screenshot from 2021-07-23 19-52-18](https://user-images.githubusercontent.com/50477195/126796288-d3cef77f-3c0d-4ec1-b094-ba4f18fd200c.png)
