@@ -4,7 +4,7 @@
 
  The dataset can be downloaded from [Boston Housing Price Dataset] (https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
  
- ### Install
+ ## Install
 
 This project requires **Python** and the following Python libraries installed:
 
