@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This study aims to find the important factors that affect the house prices in a certain area. The Boston housing price dataset is used as an example in this study. This dataset is part of the UCI Machine Learning Repository, and you can use it in Python by importing the sklearn library or in R using the MASS library. This dataset contains 13 factors such as per capita income, education level, population composition, and property size which may have influence on housing prices. This study will first conduct an exploratory data analysis on the dataset and then use multiple linear regression to try to predict housing prices and determine the importance of each feature.
+This study aims to find the important factors that affect the house prices in a certain area. The Boston housing price dataset is used as an example in this study. This dataset is part of the UCI Machine Learning Repository, and you can use it in Python by importing the sklearn library or in R using the MASS library. This dataset contains 14 factors such as per capita income, education level, population composition, and property size which may have influence on housing prices. This study will first conduct an exploratory data analysis on the dataset and then use multiple linear regression to try to predict housing prices and determine the importance of each feature.
 
 
 ## Data
- Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town.
+ Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1):
 
 1.  CRIM: Per capita crime rate by town
 2.  ZN: Proportion of residential land zoned for lots over 25,000 sq. ft
